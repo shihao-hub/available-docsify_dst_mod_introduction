@@ -7,4 +7,4 @@
 - 复活按钮和传送按钮
 - 便携大箱子
 
-[Get Started](/zh-cn/a)
+[Get Started](/zh-cn/更多物品)
